@@ -1,0 +1,59 @@
+Astarte<3
+
+Albert Einstein's Theory of Special Relativity: E=mc^2
+Year: 1905
+Other information: One of the most famous equations in physics calculating how speed affects mass, time and space. The theory demonstrates 
+a way for the speed of light to define the relationship between energy and matter. Our focus of study will be before Einstein added the affects of gravity 
+into his equation back in 1915 (general relativity), 10 years after discovering the original equation (special relativity).
+
+The Break Down of Each Variable:
+
+-E = energy
+-M = mass
+-c = the speed of light 299,792,458 or 3 x 10^8
+
+Important Factors pertaining to each variable (in very very very simple terms):
+
+-Energy: There are many forms of energy with the most commonly known ones being Kinetic, Thermal, Chemical, Electric, Nuclear, and more. Einesteins theory is most closely 
+related to Nuclear energy (like in stars and power plants) 
+-Mass: Measures the amount of matter in an object and is most often measured in Kilograms
+-The speed of light is calculated in a vacuum. This means (in very very very simple terms) it's measured in an empty space that lacks matter.
+
+You might be wondering what E=mc^2 is used for so I have provided a list below to allow for a better understanding:
+
+-GPS Navigation Tech: When gps satellites move relatively to Earth, time appears to pass slower. This is a phenomenon referred as Time Dilation that this equation provides understanding of. Accurate time measurements  
+are needed in order to sufficiently trace your location. Thus, Einesteins equation allows for us to correct these gps clocks and find your location!
+
+-Medication such as Nuclear and radiation along with medical studies in general. For example, though radiation is used to treat cancer and the radiation used comes from converting mass to energy.
+
+-Space Exploration: We need to understand the relationship between mass and energy in order to travel into space as well as helping as understand stars and the energy they emit
+
+-The equation also helps us understand why the sun shines. According to The Museum of Natural History, "The Sun is fueled by a process known as fusion: four hydrogen atoms undergo a series of collisions and eventually
+fuse together to form one helium atom. Such reactions—which occur in the Sun 100 million quadrillion quadrillion times each second—release a significant quantity of energy as predicted by E=mc2. The mass of one helium 
+atom is slightly less than the sum of the masses of four hydrogen atoms. During fusion, this missing mass is converted to energy. Our Sun has enough hydrogen to continue burning for another five billion years."
+
+-And of course, one of the most common uses of our famous equation here is the atomic bomb. During my studies I found a simple explaination for how that can be done( don't try this at home)
+According to amnh.org it states, "Perhaps most famously, E=mc2 helps explain the energy released by atomic bombs and produced by nuclear power plants. Under the right conditions, certain atoms can split apart in a 
+process called "fission." During fission, some of the mass of the original atoms is converted to energy. Scientists have learned how to exploit fission for weapons as well as for peaceful applications, such as nuclear power.
+
+List of Generalized Important Factors: 
+-The relationship between Mass and energy!
+-Atomic physics
+-speed of light
+-nuclear power
+
+List of people who assisted Einstein(even though he received all the credit) and were involved in the solidification of the equation
+-Marcel Grossmann: According to amnh.org, "School chum and mathematician Marcel Grossmann helped Einstein find the mathematical tools needed to describe the universe. Einstein used those tools to formulate General Relativity,
+and he expected mixed reactions from other physicists. "Gravitation elicits just as much respect among my colleagues as skepticism," he wrote in 1914. Einstein staked his theory on a series of astronomical observations—all
+of which were later confirmed, launching him into the spotlight.
+-Sir Arthur Eddington: According to earthsky.org, "he solar eclipse of May 29, 1919, was the day astronomer Sir Arthur Eddington verified Einstein’s general theory of relativity, by observing how stars near the sun were displaced from their normal positions."
+-Max Planck: mentor and professional colleague
+-Hendrik Lorentz: Greatly influenced Einstein’s work
+
+
+Resources: 
+https://www.youtube.com/watch?v=Wbd1-lFkKQ4
+https://www.amnh.org/exhibitions/einstein/energy/the-sun-and-the-atom-bomb#:~:text=Perhaps%20most%20famously%2C%20E%3Dmc,atoms%20is%20converted%20to%20energy.
+https://www.nasa.gov/image-article/einsteins-theory-of-relativity-critical-gps-seen-distant-stars/
+https://www.space.com/36273-theory-special-relativity.html
+https://blog.oup.com/2015/11/max-planck-albert-einstein/#:~:text=For%20example%2C%20Planck%20was%20an,and%20as%20a%20valued%20friend.
