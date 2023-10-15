@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <title>Einstein's Theory of Relativity for Dummies</title>
+</head>
+
+<body>
+    <img src="him.png" id="corner-image">
+    <header>
+        <h1>Welcome to Einstein's Theory of Relativity for Dummies</h1>
+    </header>
+    
+    <div id="equation-info"></div> 
+
+    <main>
+        <section>
+            <p> Have you always wanted to learn the basics about Einesteins equation E=mc^2?!
+            Well you come to the right place </p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2023 Astarte Naimoli</p>
+    </footer>
+
+    <script>
+        const equationInfoDiv = document.getElementById('equation-info');
+        const equation = eEqualsMCsquared.equation;
+        const description = eEqualsMCsquared.description;
+        
+        const htmlContent = `
+          <h2>${equation}</h2>
+          <p>${description}</p>
+        `;
+        
+        equationInfoDiv.innerHTML = htmlContent;
+
+        </script>
+
+</body>
+</html>
