@@ -79,31 +79,4 @@ const eEqualsMCsquared = {
   },
 };
 
-// examples: {
-//   example1: {
-//     mass: 1,                          // 1 kg
-//     energy: this.calculateEnergy(1),  // Calculate energy for 1 kg of mass
-//   },
-
-//   example2: {
-//     mass: 10,
-//     energy: this.calculateEnergy(10),
-//   },
-
-//   example3: {
-//     mass: 50,
-//     energy: this.calculateEnergy(50),
-//   },
-
-//   example4: {
-//     mass: 100,
-//     energy: this.calculateEnergy(100),
-//   },
-
-//   example5: {
-//     mass: 500,
-//     energy: this.calculateEnergy(500),
-//   }
-// },
-
 export {eEqualsMCsquared};
