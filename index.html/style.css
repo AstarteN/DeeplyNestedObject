@@ -41,14 +41,14 @@ footer {
     right: 10px;
     width: 200px;
     height: auto; 
-    animation: shake 6s ease infinite; 
+    animation: shake 6s ease infinite;
 }
 #corner-image { 
-    right:10px
+    right:10px;
 }
 
 #corner-image-left {
-    left: 10px
+    left: 12px;
 }
 
 @keyframes shake {
