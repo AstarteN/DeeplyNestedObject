@@ -18,7 +18,7 @@
     <main>
         <section>
             <p> Have you always wanted to learn the basics about Einesteins equation E=mc^2?!
-            Well you come to the right place </p>
+            Well you've come to the right place </p>
         </section>
     </main>
 
@@ -26,19 +26,8 @@
         <p>&copy; 2023 Astarte Naimoli</p>
     </footer>
 
-    <script>
-        const equationInfoDiv = document.getElementById('equation-info');
-        const equation = eEqualsMCsquared.equation;
-        const description = eEqualsMCsquared.description;
-        
-        const htmlContent = `
-          <h2>${equation}</h2>
-          <p>${description}</p>
-        `;
-        
-        equationInfoDiv.innerHTML = htmlContent;
-
-        </script>
+    <!-- This makes the HTML Nodes available to the JavaScript file -->
+    <script src="main.js" type="module"></script>
 
 </body>
 </html>
