@@ -5,17 +5,18 @@ body {
     background-attachment: fixed;
     margin: 0;
     padding: 0;
-    color: white;
+    
+    font-family: 'PT Mono', 'Courier New', Courier, monospace;
 }
 
 h1 {
     text-align: center;
-    color: white;
+    color: rgb(64, 0, 255);
     padding: 100px 100;
 } 
 
 p {
-    color: white;
+    color: rgb(255, 234, 0);
     text-align: center;
 }
 
@@ -64,4 +65,20 @@ footer {
     80% { transform: translateX(5px) rotate(-5deg); }
     90% { transform: translateX(-5px) rotate(5deg); }
     100% { transform: translateX(0); }
+}
+
+
+/* utility classes */
+
+.flex {
+    display: flex;
+}
+
+.flex-center {
+    justify-content: center;
+    align-items: center;
+}
+
+.flex-col{
+    flex-direction: column;
 }
